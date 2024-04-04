@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click_to_register</string>
+    <string name="logout">LOGOUT</string>
+</resources>
